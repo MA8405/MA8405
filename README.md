@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MA8405
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning AI
 - 📫 How to reach me mahdi.ahmadi.8405@gmail.com
 
 <!---
